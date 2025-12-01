@@ -1,0 +1,33 @@
+{
+  "name": "plc-tutorial",
+  "version": "1.0.0",
+  "description": "PLC编程教程 - 从入门到进阶的系统学习指南",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenxuuu/PLC-Tutorial.git"
+  },
+  "keywords": [
+    "PLC",
+    "可编程逻辑控制器",
+    "自动化",
+    "西门子",
+    "三菱",
+    "教程",
+    "vitepress"
+  ],
+  "author": "AI Generated (Claude Opus 4.5)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chenxuuu/PLC-Tutorial/issues"
+  },
+  "homepage": "https://github.com/chenxuuu/PLC-Tutorial#readme",
+  "devDependencies": {
+    "vitepress": "^1.5.0"
+  }
+}
