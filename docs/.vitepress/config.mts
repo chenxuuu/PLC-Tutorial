@@ -5,7 +5,7 @@ export default defineConfig({
   title: "PLC编程教程",
   description: "一套系统的PLC可编程逻辑控制器入门到进阶教程",
   lang: 'zh-CN',
-  base: '/PLC-Tutorial/',
+  base: '/',
   
   head: [
     ['meta', { name: 'author', content: 'AI Generated - Claude Opus 4.5' }],
